@@ -1,6 +1,6 @@
 PHP Client
 ================
-This is the PHP Client for MailWizz's API.
+This is the PHP Client for DooxMail's API.
 
 ### Install
 You can either download latest version of the code or you can install it via composer as follows:  
