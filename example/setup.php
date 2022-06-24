@@ -6,7 +6,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
 
 // configuration object
 $config = new \EmsApi\Config([
-    'apiUrl'    => 'http://www.mailwizz-powered-website.tld/api',
+    'apiUrl'    => 'https://ema.doox.cloud/api',
     'apiKey'    => 'PUBLIC-KEY',
 
     // components
