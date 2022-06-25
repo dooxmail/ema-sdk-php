@@ -74,7 +74,7 @@ echo '</pre>';
 
 /*===================================================================================*/
 
-// ADD SUBSCRIBERS IN BULK (since MailWizz 1.8.1)
+
 $response = $endpoint->createBulk('LIST-UNIQUE-ID', [
     [
         'EMAIL'    => 'john.doe-1@doe.com',
