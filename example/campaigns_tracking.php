@@ -3,7 +3,7 @@
 // require the setup which has registered the autoloader
 require_once __DIR__ . '/setup.php';
 
-// PLEASE NOTE THAT THIS ENDPOINT ONLY WORKS WITH MAILWIZZ >= 1.3.7.3
+
 // CREATE THE ENDPOINT
 $endpoint = new EmsApi\Endpoint\CampaignsTracking();
 
