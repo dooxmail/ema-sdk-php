@@ -18,7 +18,7 @@ echo '</pre>';
 
 /*===================================================================================*/
 
-// Search ALL ITEMS (available from MailWizz 1.4.4)
+
 $response = $endpoint->searchTemplates($pageNumber = 1, $perPage = 10, [
     'name' => 'my template name'
 ]);
